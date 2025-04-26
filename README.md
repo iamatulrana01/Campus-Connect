@@ -1,4 +1,4 @@
-# Collibration_APP
+# Campus-Connect
 
 Academic Resource Sharing Platform
 
